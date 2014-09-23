@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p><b>Hi Travis/b></p>
+<p><strong>Hi Travis</strong></p>
+<p><em>Hi Travis</em></p>
+<p><i>Hi Travis</i></p>
+<p><small>Hi Travis</small></p>
+<p>This is<sub> Hi Travis</sub> and <sup>Hi Travis</sup></p>
+
+</body>
+</html>
