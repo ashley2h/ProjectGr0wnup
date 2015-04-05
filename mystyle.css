@@ -1,0 +1,26 @@
+body {
+    /* background-color: lightblue; */
+    
+    /* I like this one */
+    background:url(checker_board.jpg);
+    color:white;
+}
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+
+.bobquotes {
+    color: red;
+}
+
+#q1 {
+    border: 20px solid #A1A1A1;
+    border-radius: 25px;
+    color: yellow;
+}
+
+.bobquotes #q2 {
+    color: green;
+}
